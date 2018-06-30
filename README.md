@@ -1,6 +1,6 @@
 # MyApp
 
-Custon test edit by GT @11:40 PM 6/30/2018
+Custom test edit by GT @11:40 PM 6/30/2018
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
